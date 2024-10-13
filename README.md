@@ -20,7 +20,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/aMironoV365/File_compression_Bot.git
+    git clone https://github.com/aMironoV365/File_Compression_Bot-aiogram-.git
     ```
 
 2. Перейдите в директорию проекта:
