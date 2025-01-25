@@ -19,13 +19,9 @@ magic-filter==1.0.12
 multidict==6.1.0
 packaging==24.1
 pikepdf==9.2.1
-pillow==10.4.0
 property-manager==3.0
 pydantic==2.9.2
 pydantic_core==2.23.4
-PyMuPDF==1.24.10
-PyMuPDFb==1.24.10
-PyPDF2==3.0.1
 pyreadline3==3.5.4
 python-dotenv==1.0.1
 six==1.16.0
